@@ -1,4 +1,6 @@
+[![MasterHead](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTk4MDE5NjQxOTMzNTcxMjMz/night-quotes-and-caption-ideas.webp)](https://github.com/MedC0der)
 ### Hi there 👋
+MedC0der
 
 <!--
 **MedC0der/MedC0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
